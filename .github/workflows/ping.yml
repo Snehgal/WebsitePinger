@@ -15,3 +15,5 @@ jobs:
         run: |
           curl -s https://dashboard-e9g1.onrender.com/ > /dev/null
           curl -s https://help-responses.onrender.com/ > /dev/null
+          curl -s https://esp8266-control.onrender.com/ > /dev/null
+          
